@@ -14,7 +14,9 @@ Encoding: UTF-8
 Imports:
     whisker,
     jsonlite,
-    utils
+    utils, 
+    data.table,
+    yaml
 Suggests:
     knitr,
     rmarkdown,
